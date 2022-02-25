@@ -24,7 +24,7 @@ public class Circulo {
         double r=s.nextDouble();
         CalculaArea(r);
         } catch(Exception e){
-            System.out.println("error");
+            System.out.println("errorr");
         }
       
         
