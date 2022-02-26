@@ -38,5 +38,10 @@ public class Circulo {
         double area=(2*PI*r);
 	System.out.printf("El valor del área es %f\n",area);
     }
+	
+    public static void CalculaDiametro(double r) {
+    double diametro=2*r;
+    System.out.println("El valor del diametro del circulo es %f\n", diametro)
+}
    
 }
